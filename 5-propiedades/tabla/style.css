@@ -1,0 +1,32 @@
+table {
+  border-collapse:separate;
+  border-spacing: 2px;
+  empty-cells:show;
+}
+
+caption { 
+  color: rgb(23, 73, 40);
+  font-size:xx-large;
+  caption-side: bottom;
+}
+
+th, td {
+  text-align: center;
+  color: rgb(93, 155, 226);
+  font-size:xx-large;
+}
+
+thead ,th{
+  color: rgb(218, 110, 228);
+}
+
+.paradigmSummary {
+  font-style: italic;
+  color: rgb(34, 138, 34);
+}
+
+.paradigm {
+  font-style: oblique;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgba(40, 151, 58, 0.418);
+}

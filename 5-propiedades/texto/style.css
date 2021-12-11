@@ -1,0 +1,77 @@
+h1 {
+  color:#FFD700;
+  text-align:end;
+  }
+
+.style1 {
+  font-style:italic;
+  font-variant:small-caps ;
+  font-weight: bold;
+  font-size:xx-small;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #228B22;
+  text-align: left;
+  vertical-align: baseline;
+  text-indent: inherit;
+  letter-spacing: initial;
+  word-spacing: inherit;
+  white-space: pre;
+  line-height: inherit;
+  text-decoration: underline;
+  text-transform: capitalize;
+}
+
+.style2 {
+  font-style:oblique;
+  font-variant:normal ;
+  font-weight: bolder;
+  font-size:medium;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: #87ceeb;
+  text-align: center;
+  vertical-align:super;
+  text-indent:initial;
+  letter-spacing:inherit;
+  word-spacing:normal;
+  white-space:nowrap;
+  line-height:normal;
+  text-decoration:solid;
+  text-transform:uppercase;
+}
+
+.style3 {
+  font-style:normal;
+  font-variant:inherit ;
+  font-weight:normal;
+  font-size:larger;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: #1E90FF;
+  text-align:right;
+  vertical-align:text-bottom;
+  text-indent:unset;
+  letter-spacing:inherit;
+  word-spacing:normal;
+  white-space:nowrap;
+  line-height:normal;
+  text-decoration:wavy;
+  text-transform:lowercase;
+}
+
+.style4 {
+  font-style:inherit;
+  font-variant:inherit;
+  font-weight:inherit;
+  font-size:xx-large;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #a9a9a9;
+  text-align:justify;
+  vertical-align:sub;
+  text-indent:initial;
+  letter-spacing:3px;
+  word-spacing:initial;
+  white-space:pre-wrap;
+  line-height:initial;
+  text-decoration:solid;
+  text-transform:uppercase;
+}
+

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Tablas</title>
+</head>
+  <body>
+    <table>
+      <caption>
+      Lenguajes de Programación
+      </caption>
+      <colgroup>
+      <col span="3" />
+      </colgroup>
+      <thead>
+      <tr>
+        <th>Paradigma</th>
+        <th>Lenguaje</th>
+        <th colspan="2">Autor</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+        <td class="paradigm" >Imperativo</td>
+        <td>C</td>
+        <td colspan="2">Dennis Ritchie</td>
+      </tr>
+      <tr>
+        <td class="paradigm" rowspan="2">Orientado a Objetos</td>
+        <td>Objective C</td>
+        <td>Brad Cox</td>
+        <td>Tom Love</td>
+      </tr>
+      <tr>
+        <td>C++</td>
+        <td colspan="2">Barjne Stroustrup</td>
+      </tr>
+      </tbody>
+      <tfoot>
+      <tr>
+        <td class="paradigmSummary">2 paradigmas</td>
+        <td>3 lenguajes</td>
+        <td colspan="2">4 autores</td>
+      </tr>
+      </tfoot>
+    </table>
+    </body>
+</html>
