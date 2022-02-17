@@ -5,28 +5,28 @@ table {
 }
 
 caption { 
-  color: rgb(23, 73, 40);
-  font-size:xx-large;
   caption-side: bottom;
+  font-size:xx-large;
+  color: green;
 }
 
 th, td {
   text-align: center;
-  color: rgb(93, 155, 226);
   font-size:xx-large;
+  color: blue;
 }
 
 thead ,th{
-  color: rgb(218, 110, 228);
+  color: palevioletred;
 }
 
 .paradigmSummary {
   font-style: italic;
-  color: rgb(34, 138, 34);
+  color: greenyellow;
 }
 
 .paradigm {
   font-style: oblique;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  color: rgba(40, 151, 58, 0.418);
+  color: brown;
 }

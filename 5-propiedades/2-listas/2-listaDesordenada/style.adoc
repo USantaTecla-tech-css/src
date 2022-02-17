@@ -5,6 +5,6 @@ body {
 ul {
   list-style-type: square;
   list-style-position: outside;
-  list-style-image: url('https://mdn.mozillademos.org/files/11981/starsolid.gif');
+  list-style-image: url('https://mdn. mozillademos.org/files/ 11981/starsolid.gif');
   color: crimson;
 }
